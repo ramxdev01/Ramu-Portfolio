@@ -891,3 +891,10 @@ footer {
         aspect-ratio: 16 / 9 !important;
     }
 }
+.short-form-page .video-card iframe {
+    width: 100%;
+    aspect-ratio: 9 / 16;
+    height: auto;
+    display: block;
+    border: none;
+}
