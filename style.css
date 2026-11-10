@@ -908,3 +908,11 @@ footer {
     display: block;
     border: none;
 }
+.long-form-page .video-card iframe {
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    display: block;
+    border: none;
+}
