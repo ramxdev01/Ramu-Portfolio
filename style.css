@@ -898,3 +898,13 @@ footer {
     display: block;
     border: none;
 }
+/* YOUTUBE SHORTS - TRUE 9:16 */
+
+.short-form-page .video-card iframe {
+    width: 100% !important;
+    aspect-ratio: 9 / 16 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    display: block;
+    border: none;
+}
